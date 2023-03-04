@@ -2,3 +2,13 @@
 
 ### URL ###
 http://saucedemo.com
+
+### ENV ###
+-Jira
+   --->Xray
+-VS Code
+   --->Python
+   --->Robot
+-GitHub
+
+
